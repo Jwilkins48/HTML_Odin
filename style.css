@@ -1,0 +1,17 @@
+/* Home Page */
+#home{
+    background: rgb(195,235,160);
+    background: radial-gradient(circle, rgba(195,235,160,1) 0%, rgba(163,236,154,1) 100%);
+    text-align: center;
+}
+
+h1{
+    color: #fff
+}
+li{
+    list-style-type: none;
+}
+a:hover{
+    background-color: rgb(135, 190, 238);
+}
+
